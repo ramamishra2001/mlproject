@@ -1,1 +1,3 @@
+Analysing Multi-armed Bandit Using Exploration and Exploitation Dynamics
 
+This report explores the ε-greedy algorithm through a simulation of the multi-armed bandit problem, demonstrating the balance between exploration and exploitation in decision-making. It outlines the algorithm's operational logic, evaluates performance metrics, and provides a comparative analysis of different exploration rates. Utilizing Python libraries such as NumPy for numerical calculations and Matplotlib for graphical representations, the document offers an in-depth analysis of agent performance and learning behaviors, showcasing the dynamics of reinforcement learning in uncertain environments.
